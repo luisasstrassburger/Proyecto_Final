@@ -107,6 +107,7 @@ analizar cómo la privacidad puede hacer que compren en línea o no lo hagan (Ra
 >  - Haber escuchado una mala experiencia de un amigo
 >  - Que la página web no sea estética
 >  - Que la página web no esté certificada digitalmente (que no tenga el candadito en la barra de direcciones)
+>  
 > ![Candado](https://user-images.githubusercontent.com/88745754/141238912-93b9c5fe-1e3a-406a-b683-8754da9640fc.png)
 
 ### Uso de información personal por parte del gobierno
