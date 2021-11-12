@@ -168,6 +168,9 @@ Falta redactar preguntas
 
 ## Bibliografía
 
+ - Turner, Carl W., Merrill Zavod, and William Yurcik. "Factors that affect the
+   perception of security and privacy of e-commerce web sites." Fourth
+   International Conference   on Electronic Commerce Research, Dallas TX. 2001.
  - Anil Gurung Manjeri K Raja, (2016),"Online privacy and security concerns of
    consumers", Information & Computer Security, Vol. 24 Iss 4 pp. 
  - Elena Zhevela, (2011), “Privacy in Social Networks: A Survey”, Department of
