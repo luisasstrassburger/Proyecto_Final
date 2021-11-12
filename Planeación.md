@@ -15,15 +15,26 @@ o confiabilidad de la información de internet, etc. (Raja Anil, 2016)
 ## Sobre la encuesta
 Para empezar, haremos preguntas para saber a qué sector poblacional estamos llegando, pues dependiendo de ello se decidirá si algunas preguntas proceden o no.
 
-  > **Pregunta 1:** Edad
+  > Edad
+  > - Edades desde 15 hasta 25
+  > - 25 y más
+
+  > Género
+  > - Femenino
+  > - Masculino
+  > - Otro
+  > - Prefiero no responder
+
+  > Estado de la república 
+  > - Opciones para cada estado
+  > - No soy originario de México
+
+  > ¿Eres estudiante de licenciatura?
+  > - Sí
+  > - No
+  > - Prefiero no responder
   
-  > **Pregunta 2:** Género
-  
-  > **Pregunta 3:** Estado de la república  *(suponemos que se encuestarán solo estudiantes nacionales, pero hay una opción para extranjeros)*
-  
-  > **Pregunta 4:** Ocupación
-  
-Debido a que nuestro grupo de enfoque son los estudiantes de licenciatura, cualquier opción dentro de ocupación que no sea esta no permitirá continuar con la encuesta.
+Debido a que nuestro grupo de enfoque son los estudiantes de licenciatura, cualquier opción distinta de sí, no permitirá continuar con la encuesta.
 Se dará un agradecimiento por el tiempo y la encuesta terminará.
 
 En caso de que el encuestado sea estudiante de licenciatura se procederá con la encuesta.
@@ -34,10 +45,52 @@ que se han tenido con la información personal de los usuarios, y con base en el
 
 ## Secciones
 ### Preguntas generales
-Aquí van preguntas de dónde se meten a internet, cuándo, cuánto tiempo, dispositivos, redes públicas, privadas, etc.
+Aquí van preguntas de dónde se meten a internet, cuándo, cuánto tiempo, dispositivos, redes públicas, privadas, etc. Se toman los puntos referentes a usos y necesidades.
+
+> ¿Tienes conexión a internet en tu hogar?
+> - Sí
+> - No
+
+> Selecciona los dispositivos a los que tienes acceso
+> - Teléfono inteligente
+> - Computadora de escritorio
+> - Computadora portatil
+> - Tablet
+> - Consola de videojuegos
+> - Ninguno
+
+> Selecciona el dispositivo con el que más accedes a internet
+> - Teléfono inteligente
+> - Computadora de escritorio
+> - Computadora portatil
+> - Tablet
+> - Consola de videojuegos
+> - Ninguno
+
+> ¿Cuánto tiempo al día utilizas tus dispositivos aproximadamente?
+> - Menos de 1 hora
+> - 1 a 2 horas
+> - 2 a 3 horas
+> - 3 a 5 horas
+> - 6 a 8 horas
+> - Más de 8 horas
+
+> Al conectarte a internet, ¿qué tipo de conexión es la que más utilizas?
+> - Red pública 
+> - Red privada (como datos móviles, o Wi-Fi en tu casa o trabajo)
+> - No sé
+
 
 ### Uso de información en aplicaciones o sitios web (Avisos de privacidad y cookies)
-Falta redactar preguntas
+De acuerdo a varios estudios, se ha mostrado que la mayoría de la gente no está al tanto de los términos y condiciones que aceptan en los avisos de privacidad y cookies,
+es por ello que hemos considerado importante desarrollar una sección que se pregunte sobre este tema. Además de ello, esta sección pretende formarse una noción general del
+perfil del usuario en cuanto a seguridad.
+
+> ¿Qué tanto conocimiento tienes sobre ciberseguridad?
+> - Mucho
+> - Poco
+> - Nada
+
 
 ### Uso de información personal en redes sociales
 Falta redactar preguntas
