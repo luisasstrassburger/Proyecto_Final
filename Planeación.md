@@ -197,7 +197,8 @@ analizar cómo la privacidad puede hacer que compren en línea o no lo hagan (Ra
 > - 21% a 40%
 > - 41% a 60%
 > - 61% a 80%
-> - 81% a 100%
+> - 81% a 99%
+> - 100%
 
 > ¿Qué tan frecuente compras en línea?
 >  - Diario
